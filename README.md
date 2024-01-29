@@ -30,13 +30,13 @@ A simple car rental system implemented using Visual Studio WinForms. This projec
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
-![Screenshot 6](screenshots/screenshot6.png)
-![Screenshot 7](screenshots/screenshot7.png)
-![Screenshot 8](screenshots/screenshot8.png)
-![Screenshot 9](screenshots/screenshot9.png)
+![Screenshot 1](carRental/screenshots/screenshot1.png)
+![Screenshot 2](carRental/screenshots/screenshot2.png)
+![Screenshot 3](carRental/screenshots/screenshot3.png)
+![Screenshot 4](carRental/screenshots/screenshot4.png)
+![Screenshot 5](carRental/screenshots/screenshot5.png)
+![Screenshot 6](carRental/screenshots/screenshot6.png)
+![Screenshot 7](carRental/screenshots/screenshot7.png)
+![Screenshot 8](carRental/screenshots/screenshot8.png)
+![Screenshot 9](carRental/screenshots/screenshot9.png)
 
