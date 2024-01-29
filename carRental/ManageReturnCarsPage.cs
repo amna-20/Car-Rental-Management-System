@@ -199,7 +199,7 @@ namespace carRental
             SqlDataAdapter dataAdapter1 = new SqlDataAdapter(query2, conn);
             DataTable dataTable1 = new DataTable();
             dataAdapter1.Fill(dataTable1);
-            dataGridView265.DataSource = dataTable1;
+            dataGridView2.DataSource = dataTable1;
         }
     }
 }
